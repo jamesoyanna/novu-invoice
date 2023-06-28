@@ -19,6 +19,10 @@ connectToDatabase();
 const invoiceRoutes = require('./routes/invoiceRoute')
 app.use('/api/invoices', invoiceRoutes);
 
+app.get('/', (req, res) => {
+  res.send("Welcome to Novu Invoice API.")
+})
+
 let options = { format: 'A4' };
 
 app.post('/send-pdf', (req, res) => {
