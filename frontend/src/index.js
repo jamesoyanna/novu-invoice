@@ -7,11 +7,16 @@ import {
 import './index.css';
 
 import Invoice from './components/Invoice';
+import InvoiceDetails from './components/InvoiceDetails';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Invoice />,
+  },
+  {
+    path: "/invoice-details",
+    element: <InvoiceDetails/>,
   },
 
 ]);

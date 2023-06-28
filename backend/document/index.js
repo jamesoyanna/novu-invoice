@@ -114,7 +114,7 @@ const pdfTemplate = ({
         <b>${new Date().toLocaleTimeString()}</b>
       </p>
       <div>
-        <img style="height: 50px; width: 100px" src="https://res.cloudinary.com/startupbuz/image/upload/v1684966014/logo-dark_sxoghr.png" />
+        <img style="height: 50px; width: 100px" src="https://res.cloudinary.com/startupbuz/image/upload/v1687967698/one_rrhaw9.png" />
         <p style="font-size: 11px">Lagos, Nigeria<p/>
         </p>
       </div>
@@ -122,8 +122,8 @@ const pdfTemplate = ({
       <section class="address">
       <div>
         <p class="title">From:</p>
-        <h4 style="font-size: 14px; line-height: 5px">Novu Connect Hackathon</h4>
-        <p style="font-size: 11px; line-height: 5px">inf@connectme.com</p>
+        <h4 style="font-size: 14px; line-height: 5px">Novu Invoice</h4>
+        <p style="font-size: 11px; line-height: 5px">inf@novuinvoice.com</p>
         <p style="font-size: 11px; line-height: 5px">+149-294-92485</p>
       </div>
       
