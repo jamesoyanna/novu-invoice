@@ -31,7 +31,7 @@ Users can seamlessly update invoice details, such as customer information, item 
 The application automatically recalculates the total quantity and amount based on the edited values.
 
 
-#### Live view of the application Demo can be VIEWD here- [Invoice App](https://novu-invoice.netlify.app/)
+#### Live view of the application Demo can be VIEWED here- [Invoice App](https://novu-invoice.netlify.app/)
 
 
 ### Screenshots of the Application.
@@ -140,8 +140,6 @@ Fill in the following credentials WITH YOURS:
 
 NODE_VERSION = 16.14.2
 
-PRIVATE_KEY = YOUR SECRET_KEY
-
 NOVU_API_KEY= YOUR NOVU_API_KEY
 
 MONGODB_URI= YOUR MONGODB_URI
@@ -152,9 +150,8 @@ Then run npm start.
 Your server should start running on  port 5000.
 
 ## About Me 
-James is a Frontend Engineer with a demonstrated history of developing and managing client-centric applications that successfully meet customer objectives.
+I am Frontend Engineer. I have a proven track record of successfully developing and managing client-centric mobile & Web applications. 
 
-With over 7 years of experience, he has a strong track record in developing high-quality software that aligns with design requirements.
 
 #### James Oyanna
 * [GitHub](https://github.com/jamesoyanna)
